@@ -56,13 +56,13 @@
 		9525CD542CF084AE001D6F13 /* Ejercicios_iOS-9,10 */ = {
 			isa = PBXGroup;
 			children = (
+				9525CD632CF084AF001D6F13 /* Info.plist */,
 				9525CD552CF084AE001D6F13 /* AppDelegate.swift */,
 				9525CD572CF084AE001D6F13 /* SceneDelegate.swift */,
-				9525CD592CF084AE001D6F13 /* ViewController.swift */,
-				9525CD5B2CF084AE001D6F13 /* Main.storyboard */,
 				9525CD5E2CF084AF001D6F13 /* Assets.xcassets */,
 				9525CD602CF084AF001D6F13 /* LaunchScreen.storyboard */,
-				9525CD632CF084AF001D6F13 /* Info.plist */,
+				9525CD5B2CF084AE001D6F13 /* Main.storyboard */,
+				9525CD592CF084AE001D6F13 /* ViewController.swift */,
 			);
 			path = "Ejercicios_iOS-9,10";
 			sourceTree = "<group>";
