@@ -14,6 +14,8 @@
 		9525CD5F2CF084AF001D6F13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9525CD5E2CF084AF001D6F13 /* Assets.xcassets */; };
 		9525CD622CF084AF001D6F13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9525CD602CF084AF001D6F13 /* LaunchScreen.storyboard */; };
 		9572F3722CFE1E0D00426B2A /* Ex9ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9572F3712CFE1E0D00426B2A /* Ex9ViewController.swift */; };
+		959D7CF02CFEF69B000E6AE9 /* Ex10ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959D7CEF2CFEF69B000E6AE9 /* Ex10ViewController.swift */; };
+		959D7CF72CFF0D2A000E6AE9 /* RoomsPopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959D7CF62CFF0D2A000E6AE9 /* RoomsPopUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9525CD612CF084AF001D6F13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9525CD632CF084AF001D6F13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9572F3712CFE1E0D00426B2A /* Ex9ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex9ViewController.swift; sourceTree = "<group>"; };
+		959D7CEF2CFEF69B000E6AE9 /* Ex10ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex10ViewController.swift; sourceTree = "<group>"; };
+		959D7CF62CFF0D2A000E6AE9 /* RoomsPopUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomsPopUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				9525CD5E2CF084AF001D6F13 /* Assets.xcassets */,
 				9525CD602CF084AF001D6F13 /* LaunchScreen.storyboard */,
 				9525CD5B2CF084AE001D6F13 /* Main.storyboard */,
+				959D7CF62CFF0D2A000E6AE9 /* RoomsPopUpViewController.swift */,
+				959D7CEF2CFEF69B000E6AE9 /* Ex10ViewController.swift */,
 				9572F3712CFE1E0D00426B2A /* Ex9ViewController.swift */,
 				9525CD592CF084AE001D6F13 /* ViewController.swift */,
 			);
@@ -142,7 +148,9 @@
 			files = (
 				9525CD5A2CF084AE001D6F13 /* ViewController.swift in Sources */,
 				9525CD562CF084AE001D6F13 /* AppDelegate.swift in Sources */,
+				959D7CF72CFF0D2A000E6AE9 /* RoomsPopUpViewController.swift in Sources */,
 				9525CD582CF084AE001D6F13 /* SceneDelegate.swift in Sources */,
+				959D7CF02CFEF69B000E6AE9 /* Ex10ViewController.swift in Sources */,
 				9572F3722CFE1E0D00426B2A /* Ex9ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

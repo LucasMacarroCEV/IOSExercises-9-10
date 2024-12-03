@@ -11,9 +11,9 @@ class ViewController: UIViewController {
     }
     
     @IBAction func GoToEx9(_ sender: Any) {
-        performSegue(withIdentifier: "ToEx9", sender: nil)
+        performSegue(withIdentifier: "ToEx9", sender: nil);
     }
     @IBAction func GoToEx10(_ sender: Any) {
-        
+        performSegue(withIdentifier: "ToEx10", sender: nil)
     }
 }
